@@ -1,0 +1,7 @@
+{
+  "source": "web/assets/voice/ryza_wav/prologue_03.wav",
+  "language": "ja",
+  "transcript": "決まった道も世界もなくて、あなたの言葉がそのまま物語になるの",
+  "tts_model": "mlx-community/Qwen3-TTS-12Hz-1.7B-Base-4bit",
+  "revision": "37e955a1deb861c088ae5f3a67043185f3d1a60c"
+}
